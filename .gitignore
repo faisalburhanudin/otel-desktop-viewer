@@ -7,3 +7,4 @@ distribution/linux/*
 distribution/darwin/*
 .tools/*
 go.work*
+vendor
